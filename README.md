@@ -1,2 +1,2 @@
-# diagrams
+# diagramas
 Diagramas de Solucion
